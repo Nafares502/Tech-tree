@@ -1,0 +1,55 @@
+{
+  "name": "Electric-Cleaninc Smelter",
+  "width": 420,
+  "height": 240,
+  "defaultArrow": false,
+  "pieces": [
+    {
+      "type": "item",
+      "x": 92,
+      "y": 60,
+      "side": "input",
+      "active": true
+    },
+    {
+      "type": "item",
+      "x": 92,
+      "y": 152,
+      "side": "input",
+      "active": true
+    },
+    {
+      "type": "energy",
+      "x": 16,
+      "y": 16,
+      "side": "input",
+      "active": false
+    },
+    {
+      "type": "flame",
+      "level": 40,
+      "x": 96,
+      "y": 108
+    },
+    {
+      "type": "arrow",
+      "progress": 80,
+      "x": 156,
+      "y": 108
+    },
+    {
+      "type": "item",
+      "x": 232,
+      "y": 104,
+      "side": "output",
+      "active": true
+    },
+    {
+      "type": "fluid",
+      "x": 16,
+      "y": 126,
+      "side": "input",
+      "active": true
+    }
+  ]
+}
